@@ -1,4 +1,4 @@
-# Project 1: Volcano Facts and Information Visualizations
+# Project 2: Volcano Facts and Information Visualizations
 
 ## Overview
 This project visualizes and analyzes volcanoes data from the Smithsonian Institution's Global Volcanism Program (GVP), containing information on over 1,500 volcanoes that erupted during the Holocene period (last ~10,000 years).
