@@ -1,4 +1,4 @@
-# Project 1: Analyzing Bank Customers with Pandas
+# Analyzing Bank Customers with Pandas
 
 ## Overview
 This project uses anonymized data about bank customers to explore their behavior and understand key patterns. The analysis includes summary statistics, data cleaning, and visualizations using pandas and matplotlib.
